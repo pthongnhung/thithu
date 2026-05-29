@@ -30,3 +30,4 @@ public class Medication {
     @Column(name = "is_deleted", nullable = false)
     private Boolean isDeleted = false; // Mặc định false khi tạo mới
 }
+ềwf
